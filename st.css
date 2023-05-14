@@ -578,3 +578,9 @@ footer {
   from { opacity: .5 }
   to { opacity: 1 }
 }
+
+@media only screen and (max-width: 768px) {
+  .fade img {
+    height: auto;
+  }
+}
