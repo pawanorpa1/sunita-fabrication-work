@@ -67,6 +67,11 @@
   .subbox2 ul {
     display: none;
   }
+  .box2 {
+    margin-top: 7px;
+    margin-right: 0;
+    direction: rtl;
+  }
   
 }
 @media only screen and (max-width: 649px) {
@@ -81,6 +86,11 @@
     top: 0;
     margin-left: 0px;
     border: none;
+  }
+  .box2 {
+    margin-top: 7px;
+    margin-right: 0;
+    direction: rtl;
   }
   
 }
