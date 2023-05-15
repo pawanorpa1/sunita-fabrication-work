@@ -102,6 +102,11 @@
     padding-right: 7px;
     font-size: 15px;
   }
+  .box2 {
+    float: right;
+    margin: 6px;
+    margin-right: -20px;
+  }
 }
 
 /* about us */
